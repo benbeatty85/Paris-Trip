@@ -26,7 +26,7 @@ figcaption {
 
 .header {
   padding: 100px 0;
-  background: linear-gradient(#FEDC3D, transparent 50%), linear-gradient(0deg, #fff, transparent), #FEDC3D url('https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/18402624_1831357300451091_8636747434071473174_n.jpg?oh=d331d8863926b107912b034073ac72e7&oe=59ADDD13') no-repeat center;
+  background: linear-gradient(#FEDC3D, transparent 50%), linear-gradient(0deg, #fff, transparent), #FEDC3D url("img/sitepic1.jpg") no-repeat center;
   background-size: cover;
   background-attachment: fixed;
   max-width: 100%;
@@ -40,7 +40,7 @@ figcaption {
 
 .banner {
   padding: 150px 0;
-  background: linear-gradient(#FEDC3D, transparent 60%), linear-gradient(70deg, #fff, transparent), #FEDC3D url('https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/18342293_1830611520525669_5546778955471759930_n.jpg?oh=23cce8e1215f8283d2180f6f0819fcc1&oe=59B90A18') no-repeat center;
+  background: linear-gradient(#FEDC3D, transparent 60%), linear-gradient(70deg, #fff, transparent), #FEDC3D url("img/sitepic2.jpg") no-repeat center;
   background-size: cover;
   background-attachment: fixed;
   max-width: 100%;
@@ -170,7 +170,7 @@ figcaption {
 @media screen and (min-width: 420px) {
   .footer-first {
     padding: 250px 0;
-    background: url('https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/18341875_1831355580451263_7975646535191036705_n.jpg?oh=74e9acdee796be1ef16b62c52c36a7a3&oe=59799B06') no-repeat center;
+    background: url('img/IMG_0049.jpg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     max-width: 100%;
